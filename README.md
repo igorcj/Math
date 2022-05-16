@@ -2,6 +2,6 @@
 
 ## Álgebra
 
-* [Frações e Números Fracionários](Álgebra/Frações%20e%20Números%20Fracionários/Aula.md)
+* [Frações e Números Fracionários](algebra\fracoes_numeros_fracionarios\fracoes.pdf)
 
 ## Geometria
